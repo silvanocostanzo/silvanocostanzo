@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm engineering manager @[Opendatasoft](https://github.com/opendatasoft)
+
+We are hiring, you can see our open positions [here](https://www.welcometothejungle.com/fr/companies/opendatasoft/jobs)
+
+I'm happy to have a chat with you, if you have questions about the company, a job offer. [Let's stay in touch](https://www.linkedin.com/in/scostanzo/)
+
 <!--
 **silvanocostanzo/silvanocostanzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
