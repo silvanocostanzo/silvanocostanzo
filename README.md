@@ -2,6 +2,7 @@
 
 I'm Cloud Platform Product Owner [@UTech.](https://github.com/ugieiris)
 
+Let's stay in touch: https://www.linkedin.com/in/scostanzo/
 
 <!--
 **silvanocostanzo/silvanocostanzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
